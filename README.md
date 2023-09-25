@@ -22,11 +22,22 @@
 ## applications.properties
 
 ### AWS S3
-* Necessário ter um usuário IAM (Identity and Access Management) para que a API funcione da maneira desejada
+* Necessário ter um usuário IAM (Identity and Access Management) para que a API funcione da maneira desejada.
   - EndpointUrl
   - Access Key
   - Secret Key
   - Bucket Name
     
-[Configurações AWS S3](.github/assets/images/aws-s3-configurations.png)
+![Configurações AWS S3](.github/assets/images/aws-s3-configurations.png)
   
+### MySQL
+- Url
+- Username
+- Password
+
+![Configurações MySQL](.github/assets/images/mysql-configurations.png)
+
+### Spring File size
+* É necessário definir um tamanho de arquivo que seja adequado para o projeto! O tamanho padrão de arquivo aceitado pelo Spring Boot é pequeno, tornando necessária essa configuração extra.
+
+![Configurações Spring Servlet](.github/assets/images/spring-filesize-configurations.png)
