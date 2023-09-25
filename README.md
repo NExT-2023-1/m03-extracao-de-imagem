@@ -19,5 +19,14 @@
 
 
 # Configurações iniciais do projeto
+## applications.properties
 
-##
+### AWS S3
+* Necessário ter um usuário IAM (Identity and Access Management) para que a API funcione da maneira desejada
+  - EndpointUrl
+  - Access Key
+  - Secret Key
+  - Bucket Name
+    
+[Configurações AWS S3](.github/assets/images/aws-s3-configurations.png)
+  
