@@ -17,3 +17,7 @@
 - Recuperar uma imagem extraída através de um identificador da imagem, que foi gerado quando extraído do documento.
 - Remover da lista de documentos processados, um documento específico e todas as suas imagens através do identificador do documento.
 
+
+# Configurações iniciais do projeto
+
+##
